@@ -1,0 +1,12 @@
+[1] "Download date:"
+[1] "2014-08-24 01:05:56 SAST"
+[1] "Download URL:"
+[1] "UCI Machine Learning Repository"
+[1] "Human Activity Recognition Using Smartphones Data Set"
+[1] "New  UCI HAR Dataset .zip"
+[1] "      needs to be unzip to folder UCI HAR Dataset"
+[1] "Execute"
+[1] "     run_analysis( FALSE)"
+[1] "     to continue tidying data after unzippn=ing"
+.Primitive("return")
+AR Dataset .zip 2014-08-23 23:51:56  no
